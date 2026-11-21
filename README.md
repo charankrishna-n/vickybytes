@@ -8,6 +8,7 @@
 
 
 
+
 A modern live event streaming platform built with Next.js and React. Browse, search, and watch live and upcoming events across Tech, Music, and Gaming categories — with a real-time simulated live chat experience.
 
 ---
